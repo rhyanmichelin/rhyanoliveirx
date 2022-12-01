@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-[ENG-EUA]
+[ENG-USA]
 - 🔭 My name is Rhyan Oliveira
 - 🌱 I'm 19 years old
 - 📖 Studying Computer Technician at the Federal Institute of São Paulo (IFSP)
