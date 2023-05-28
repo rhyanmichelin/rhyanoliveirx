@@ -1,16 +1,9 @@
-### Olá 👋
-
-[PT-BR]
-- 🔭 Me chamo Rhyan Oliveira
-- 🌱 Tenho 19 anos de idade
-- 📖 Cursando Técnico em Informática no Instituto Federal de São Paulo (IFSP)
-
 ### Hi there 👋
 
 [ENG-USA]
-- 🔭 My name is Rhyan Oliveira
-- 🌱 I'm 19 years old
-- 📖 Studying Computer Technician at the Federal Institute of São Paulo (IFSP)
+- Rhyan Oliveira | 19yo | SP 🇧🇷
+- 🎓 Graduated as a Computer Technician by IFSP.
+- 📚 Studying higher education in Systems Analysis and Development.
  ##
 <div align="center">
   <a href="https://github.com/rhyanoliveirx">
