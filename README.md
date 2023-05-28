@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 [ENG-USA]
-19yo | Brazil
+- Rhyan Oliveira | Rynx
+- 🌱 I am 19 years old
+- 🌎 I currently live in Brazil
 - 🎓 Graduated as a Computer Technician by IFSP.
 - 📚 Studying higher education in Systems Analysis and Development.
  ##
