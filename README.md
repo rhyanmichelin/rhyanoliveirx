@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [ENG-USA]
-- Rhyan Oliveira | 19yo | SP 🇧🇷
+19yo | Brazil
 - 🎓 Graduated as a Computer Technician by IFSP.
 - 📚 Studying higher education in Systems Analysis and Development.
  ##
