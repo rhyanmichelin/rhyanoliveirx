@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[ENG-USA]
 - 🌱 I am 19 years old
 - 🎓 Graduated as a Computer Technician by IFSP.
 - 📚 Studying higher education in Systems Analysis and Development.
